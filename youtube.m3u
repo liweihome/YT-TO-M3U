@@ -11,14 +11,14 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="電視台" tvg-logo="" tvg-id="", 誠心電視台
-https://www.youtube.com/watch?v=oSwgSOpwEQ8
-
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣台-HD
-https://cdn.ggapk.net/live/tv?id=648ejGiV8jeO_cZBedGb8dVYsKrtgFyiFMCYj1IhPtnBBCb-90cHhGR7X7LEoJDg_hLwcZy0x_KStysK_1g4bE3uYbM_04a7Elw1Ef77DgJWPtMtBV8lTV2xk6_l_ty8YUT7iY9tMX6ZY-CbsboQ5XqsOjHndFagCxsgT1Naf9WRhTGgVZ51-g&idp=3471JsRBmrgOjFxWUXO-XzycuvpQp81iCB2FxO6UL8E3W7crRkrFC_wQ
+https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-37/l7xi-d2ba/chunklist_DVR.m3u8
+
+#EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣台-720
+https://video-weaver.tpe03.hls.ttvnw.net/v1/playlist/CuUF9dAbTGEQ6SijWg6LWYK2lJaMeSC9z0wmuUE9Md5l1S-03CQUH9MpX9NL7bKqNBQyKktMVc68Vykf1uLMXqQRqI6Scuyqfj8484UzTMpUbjy8CaRNYEAk-abZ-canmUFnFXywXkg3GUvjqxelc8aCxJFDtADKx_9s-Jp9S2EEzubHXXePmd3uzpseDzRSexJXr5CaFkYx1Eh1QPQrtglG18hiCo7tnKKUwf7IMmsWHZWGLfguHOj0SlfWqTMdQOmq0wUcwAUf1cIPLqlGmOcq5fvNlouqUWGRX7KfHHfOPmcLpriSI2c83rGxTnyua32GRgzQnDSiZwVVYZ1IftD1smK00j4-w88HZPwLY5KfCQrWPYIHOuoBc9gc2QdpbKYsslJB0Dld077RDe7QiYgdaj1Xic9D190jsubTrK5UdCkxOyxuJwezWd1S5rWHKPjHXtOjAc3BdUv3isVS2K-W3Wr5s0cTM4y34JBKGfKotDaPbBlZEUGjRIdge-CdVv4bDyITg8Qz6hxImBAXtDTCdmRl5xi4AvG6_LLjtrFaoKrLVfKAxKas8ewmWVw-smqWn9zF9Xxb67dbvvMWtzqI9ZhwpyLL0_SSyN3RV11uHkXGk_OGoVsHINQnKMGlaZ5oOSgTjpwLGMngbXO-rr1EeEF6BladQGqJCE7DKNadZu9ZqxTqgdMRQAc0_fjBw1eL4evgB2-9it1b3cQdIp3yHZDNKMSmMQ-B4ZQ0j_TbhQC-i-XEJt2ZYZZQfPXisd3R3pTlQag0tLvrqj9xR6dezQA1K4h90vfN9SLrMI7u3IicH4AE9xyOakJ9BFv-ga7AJm4XbC5J_zveq-gAXfTLSi6a3cVWflc4X2RCnVNP-7SSjNwoLfj_dNfVNEUilj6EvRWs5qqiDDvkc-93rQ-dQ9BGzBVWbsgZzLd5PRuRUykKONSAfdgsqjwUpjpQzsxPx4SKmw6oBWiEw4guhLiI_2rzreIeGgyt0IdJqu9dIb2z4aogASoJdXMtd2VzdC0yMO4J.m3u8
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣台-1
-https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-37/l7xi-d2ba/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-37/l7xi-d2ba_360p/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣台-2
 https://live-global-cdn-v02.afreecatv.com/live-stm-18/auth_master_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.W__oaA1Lp2WgA3lb_w5ZGJgGpaHxkxiGckIxOpQOsa1TylfIv9bhn3p-_Uey8fJj8H0IcQZR03J7qi4wlS4Z3K070ly7gdIQNa9TtHB2W4M
@@ -28,3 +28,6 @@ https://video-weaver.tpe01.hls.ttvnw.net/v1/playlist/Cu8F39iG2h8ef1zBK6eeTcKtIrQ
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣台-4
 https://video-weaver.tpe01.hls.ttvnw.net/v1/playlist/CtUFUkkXv44gHELvWSOL5BclkOZVihC1Ody3BndUUJQm5Ka3P2QTLS2Stik3iV_QtRTMPanJ3UrAbDpDmQ1VEjMma-h5dgY7CEAbQQbyD8HrosPMTJnDZt1IEh2kYdD-j2bDJRWbKZtb4hGAd48csp8MfWTCupzPLkaK6HKLkpHBUR4nPl4q84sgr0V1SvlHy39hEB8KblryKT7hW6STYMIuQEzKx91qkTebNSsjfjAy9KtGcC_fQ0Hq8ZQ06gUbd-pMWi2ujHsgp9icHh4ZkhjI1jwiXprgOgJ6AUPHgnEG6KrwdTnIG67a9k8hXptRggKmW4JQADPNeHexs_EviV3sLfVDueE-TyIwkhAXn4ISeDFVKYaYsqBpeAZAn9Cd0sdGk-Y7hlayvKt0nhZ8eNBrShnsQGtb1yGxsYumvzKif7bAAdKVLwJdLxuctEClqGOkLMF-pSt5D7d6xtz0wJ7WWIFweuMmKKLvIGOK_0505mmbqe9MMH_gdtqvvJyCvPj61kWQIBN_l_2Y0aqpJKuu7AEL5Z2O1nToQbTa8zOCpsC_VXaLSKYnhZjBYBqE9QFao0-y-MYjuPs9tpuEGTmZ7yM-F-SuT7Uywy5Hd43hzlW4c2UCQHt31jWjfOexyM5iuo6fu1sOsWzCCU1DqMqsaWaArq201SsjP78sKPR-Rvjt-I8iMakizahKMNdL3heJFyg0IbmtDq4C4lmWTcCML71k86kifwLg5bjfLzmYoRn5w2od0N5WNAYlsJxMiJWUMgub_D7JYORMW77tJCEWa8DhJ-rZUThMHVOowOPUW0-NJOv10jQDeflu1Lh97qi7d27-0bnNwp7NetQlN0Xkb6UpSFMArOL353Vfp7m5WFK-99kDT8MxGH6DTyH8c7V58Ye2gyPzrOKmB7Zdb-JCYL3ixCl97e-DMZ3qP4n1_Xz1HXJK3wb-NXZj84ZVHdUzzrGHtlUaDHqlT5_F-Zk73pidYCABKgl1cy13ZXN0LTIw7gk.m3u8
+
+#EXTINF:-1 group-title="電視台" tvg-logo="" tvg-id="", 誠心電視台
+https://www.youtube.com/watch?v=oSwgSOpwEQ8
