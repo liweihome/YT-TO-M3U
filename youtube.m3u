@@ -29,17 +29,14 @@ http://125.227.210.55:8160/VideoInput/play.ts
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-4
 https://cdn.ggapk.net/live/tv?id=c8a5Q-WN1nS9N1KQdttES5TeYJ297BQWrgJaEZZcDzbvMMRqAZBwNGqeKM2gUDMd7lSPMmPSysCT4X0a6-oemBzix0Ipjhh8YElMzjrvvQHsRNG8V6EE6wSuZ2lzhXNVmyH-5oCUIEa6bce8gjFwFaEVyf18KtQifmHqUnHW2CTBslIKIk0vDQ&idp=42242A4mslV1Pdnj3l1qdmnxLKGTBTofe9A7tqwG5-8fDQpZff6-NT4Ieg
 
-#EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-L
-https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
-
-#EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-*
-http://220.134.196.147:9574/ch49.m3u8
-
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-1
 rtmp://f13h.mine.nu/sat/tv051
 
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-2
 rtmp://220.130.201.73/sat/tv051
+
+#EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-*
+http://220.134.196.147:9574/ch49.m3u8
 
 #EXTINF:-1 group-title="電視台" tvg-logo="" tvg-id="", 誠心電視台
 https://www.youtube.com/watch?v=xJAmW5SLRho
