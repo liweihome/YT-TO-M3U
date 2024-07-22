@@ -54,11 +54,19 @@ http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
 
 #EXTINF:-1 group-title="兒童" tvg-logo="" tvg-id="", MOMO親子台
-http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8
+http://4gtv.mumi.rip:9877/231/4gtv-live107/1080.m3u8
+
+#EXTINF:-1 group-title="兒童" tvg-logo="" tvg-id="", MOMO親子台-720
+http://4gtv.mumi.rip:9877/231/4gtv-live107/720.m3u8
 
 #EXTINF:-1 group-title="布袋戲" tvg-logo="" tvg-id="", 霹靂布袋戲
-http://4gtv.mumi.rip:9877/301/4gtv-live145/index.m3u8
+http://4gtv.mumi.rip:9877/301/4gtv-live145/1080.m3u8
+
+#EXTINF:-1 group-title="布袋戲" tvg-logo="" tvg-id="", 霹靂布袋戲-720
+http://4gtv.mumi.rip:9877/301/4gtv-live145/720.m3u8
 
 #EXTINF:-1 group-title="布袋戲" tvg-logo="" tvg-id="", 金光布袋戲
-http://4gtv.mumi.rip:9877/236/4gtv-live144/index.m3u8
+http://4gtv.mumi.rip:9877/236/4gtv-live144/1080.m3u8
 
+#EXTINF:-1 group-title="布袋戲" tvg-logo="" tvg-id="", 金光布袋戲-720
+http://4gtv.mumi.rip:9877/236/4gtv-live144/720.m3u8
