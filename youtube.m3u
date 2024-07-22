@@ -57,12 +57,9 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台
-https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
-
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台-1
 http://125.227.210.55:8186/VideoInput/play.ts
 
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台-2
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台-1
 http://194.87.101.118/live.m3u8?c=5
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 台視新聞台
