@@ -45,18 +45,15 @@ http://220.134.196.147:9574/ch49.m3u8
 https://www.youtube.com/watch?v=0ZeXvsko7nw
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-1
-https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.m3u8
-
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-2
-https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
-
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-3
 https://epg.pw/stream/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
 
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-4
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-1
+https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-2
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-3
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台
