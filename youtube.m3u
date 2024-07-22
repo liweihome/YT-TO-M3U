@@ -29,14 +29,53 @@ http://125.227.210.55:8160/VideoInput/play.ts
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-4
 https://cdn.ggapk.net/live/tv?id=c8a5Q-WN1nS9N1KQdttES5TeYJ297BQWrgJaEZZcDzbvMMRqAZBwNGqeKM2gUDMd7lSPMmPSysCT4X0a6-oemBzix0Ipjhh8YElMzjrvvQHsRNG8V6EE6wSuZ2lzhXNVmyH-5oCUIEa6bce8gjFwFaEVyf18KtQifmHqUnHW2CTBslIKIk0vDQ&idp=42242A4mslV1Pdnj3l1qdmnxLKGTBTofe9A7tqwG5-8fDQpZff6-NT4Ieg
 
+#EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視
+http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
+
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-1
 rtmp://f13h.mine.nu/sat/tv051
 
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-2
 rtmp://220.130.201.73/sat/tv051
 
-#EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-*
+#EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-3
 http://220.134.196.147:9574/ch49.m3u8
 
 #EXTINF:-1 group-title="電視台" tvg-logo="" tvg-id="", 誠心電視台
 https://www.youtube.com/watch?v=0ZeXvsko7nw
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-1
+https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.m3u8
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-2
+https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-3
+https://epg.pw/stream/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-4
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台
+https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台-1
+http://125.227.210.55:8186/VideoInput/play.ts
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台-2
+http://194.87.101.118/live.m3u8?c=5
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 台視新聞台
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 台視新聞台-1
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+
+
+
+
+
+
