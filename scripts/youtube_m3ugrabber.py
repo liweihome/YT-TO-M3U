@@ -34,7 +34,7 @@ def grab(url):
             if '.m3u' not in response:
                 print('https://raw.githubusercontent.com/liweihome/YT-TO-M3U/main/assets/moose_na.m3u')
                 return
-    end = response.find('.m3u8') + 5
+    end = response.find('.m3u') + 5
     tuner = 100
     while True:
         if 'https://' in response[end-tuner : end]:
