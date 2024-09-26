@@ -29,14 +29,11 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv002
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-1
 http://37.27.111.214:8080/live/6/hls.m3u8
 
-#EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-2
-http://4gtv.mumi.rip:9877/184/4gtv-4gtv002/index.m3u8
-
 #EXTINF:-1 group-title="誠心電視台" tvg-logo="" tvg-id="", 誠心電視台
 https://www.youtube.com/watch?v=oqA7Gcbrn1c
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台
-http://4gtv.mumi.rip:9877/184/4gtv-4gtv013/index.m3u8
+https://gat.zhoujie218.top/litv/4gtv-4gtv013
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-1
 https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
