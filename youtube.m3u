@@ -33,16 +33,16 @@ http://37.27.111.214:8080/live/6/hls.m3u8
 https://www.youtube.com/watch?v=oqA7Gcbrn1c
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台
-http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
+https://gat.zhoujie218.top/litv/litv-ftv13
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-35
-http://4gtv.mumi.rip:9877/2/4gtv-4gtv013/index.m3u8
+https://gat.zhoujie218.top/litv/litv-ftv13
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-1
-https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
-
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-2
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 中視新聞台
+https://gat.zhoujie218.top/litv/4gtv-4gtv040
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台
 https://gat.zhoujie218.top/litv/4gtv-4gtv072
@@ -50,8 +50,17 @@ https://gat.zhoujie218.top/litv/4gtv-4gtv072
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台-*1
 http://125.227.210.55:8186/VideoInput/play.ts
 
+#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 非凡新聞台
+https://gat.zhoujie218.top/litv/4gtv-4gtv010
+
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 東森新聞台
 https://gat.zhoujie218.top/litv/4gtv-4gtv152
 
 #EXTINF:-1 group-title="布袋戲" tvg-logo="" tvg-id="", 霹靂布袋戲
-http://4gtv.mumi.rip:9877/2/4gtv-4gtv145/index.m3u8
+http://4gtv.mumi.rip:9877/231/4gtv-live145/index.m3u8
+
+#EXTINF:-1 group-title="布袋戲" tvg-logo="" tvg-id="", 霹靂布袋戲-1
+http://4gtv.mumi.rip:9877/169/4gtv-live145/index.m3u8
+
+#EXTINF:-1 group-title="布袋戲" tvg-logo="" tvg-id="", MOMO
+http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8
