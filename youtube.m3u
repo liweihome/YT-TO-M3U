@@ -29,6 +29,9 @@ https://vsd120.mycdn.me/dash/stream_5856940657391/stream.manifest/sig/pDS5paQmoE
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-66
 https://vsd120.mycdn.me/dash/stream_5856940657391/stream.manifest/sig/pDS5paQmoEc/expires/1730452317529/srcIp/125.231.140.6/urls/45.136.20.59/clientType/0/srcAg/CHROME/mid/7156044275439/stream-medium.jidx?_rnd=195136420
 
+#EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣77
+https://ok.ru/video/7156044275439
+
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視
 http://37.27.111.214:8080/live/6/hls.m3u8
 
