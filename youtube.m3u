@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-HD
-https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Pq8Xdt_aMXCu6KAM-n3u_Vctt81ltSkIQAeqIMVm6OvYpkzdlwQxERYUMIRIrIBCiuQKNYGCc4XMur_P9xbXsac3-XqBdtV-dyctZBr6pp9RCxeg9L7P2aHyNT3uDr9-
+https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.krDzgePMv_AjGr9ZMv9Q8cAoHt47ltR19Buybr3jqHXF_loSnfL9nazVc4mXtMyvJuY_P1p_AgE2-HgszvjPS0UO7XPjUqov-2pc8nFAJaPApUXacM65rldhscOIhJ-S
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-1
 https://1a-1791.com/live/qt9k24wa/slot-84/opmb-n35r/chunklist_DVR.m3u8
@@ -30,7 +30,7 @@ http://37.27.111.214:8080/live/6/hls.m3u8
 http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
 #EXTINF:-1 group-title="誠心電視台" tvg-logo="" tvg-id="", 誠心電視台
-https://www.youtube.com/watch?v=cMtwcLSzp1s
+https://www.youtube.com/watch?v=KSffKc-sH-U
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台
 http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
