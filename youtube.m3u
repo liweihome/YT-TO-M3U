@@ -12,10 +12,10 @@
 
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-HD
-https://live-global-cdn-v02.sooplive.co.kr/live-stmc-23/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.EFkTEcANeeWYRFYYNGCpvQ9QYpWnuiZp5iO7ED3T58xMCHAgnqfUx86PoOCV7BltYzgufjjnVfut_pBEZFGax3ms0zMTxerp9QNDvCu_MutBIIjC7ji3-k9v5rNG0k8Z
+https://live-global-cdn-v02.sooplive.co.kr/live-stmc-35/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.nvFNuacr0cv-LvtZC3Q4c_WyqBmZyqwaOwcYAb9jb58Qi_AR7sluBFG-xSNYz0Vo8i_5B0R3HaCcS66kK8x8vj__A7RJ3swV_TXZHWpGCkzb656DDn7NynwJXC0TViha
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-1
-https://1a-1791.com/live/qt9k24wa/slot-160/u0am-yxxk_1080p/chunklist_DVR.m3u8
+https://1a-1791.com/live/qt9k24wa/slot-160/u0am-yxxk/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-2
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
@@ -30,7 +30,7 @@ http://37.27.111.214:8080/live/6/hls.m3u8
 http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
 #EXTINF:-1 group-title="誠心電視台" tvg-logo="" tvg-id="", 誠心電視台
-https://www.youtube.com/watch?v=KSffKc-sH-U
+https://www.youtube.com/watch?v=LbRSzDaYNaE
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台
 http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
