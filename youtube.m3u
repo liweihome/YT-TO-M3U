@@ -17,26 +17,23 @@ https://live-global-cdn-v02.sooplive.co.kr/live-stmc-31/auth_playlist.m3u8?aid=.
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-1
 https://1a-1791.com/live/tv3qa28c/slot-135/xm71-4o5c/chunklist.m3u8
 
-#EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-2
-https://sgp1.angelthump.com/hls/MjAyNS0wMS0wM1QyMTozMTozNy41NDBaam5sc25sNDUyNDUyNA==_jnlsnl4524524/index.m3u8
-
-#EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立台灣-T
-https://epg.pw/stream/bfb4f28ad7b1bc3e20703b9f35b51104a59eca154ec67643bf9d30a8af4b607a.m3u8
+#EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
 
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視
-http://litv.zapi.us.kg/?id=4gtv-4gtv002
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv002
 
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-1
-http://litv.zapi.us.kg/?id=4gtv-4gtv155
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv155
 
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-2
-http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+http://37.27.111.214:8080/live/6/hls.m3u8
 
 #EXTINF:-1 group-title="誠心電視台" tvg-logo="" tvg-id="", 誠心電視台
 https://www.youtube.com/watch?v=S070LV76kTw
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台
-https://litv.zapi.us.kg/?id=litv-ftv13
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top$订阅源-1920x1080
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-1
 http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
@@ -48,25 +45,16 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://litv.zapi.us.kg/?id=4gtv-4gtv051
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台
-http://litv.zapi.us.kg/?id=4gtv-4gtv072
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台-*1
 http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKlT3I1CCRgUt9-bG7ZkVSJg/.m3u8
 
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 中視新聞台
-http://litv.zapi.us.kg/?id=4gtv-4gtv074
-
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 華視新聞台
-http://litv.zapi.us.kg/?id=4gtv-4gtv052
-
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 非凡新聞台
-http://litv.zapi.us.kg/?id=4gtv-4gtv010
-
-#EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 非凡新聞台-1
-http://litv.zapi.us.kg/?id=4gtv-4gtv048
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv010
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 東森新聞台
-http://litv.zapi.us.kg/?id=4gtv-4gtv152
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv152
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 東森新聞台-1
 http://37.27.111.214:8080/live/20/hls.m3u8
