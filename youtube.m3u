@@ -12,10 +12,10 @@
 
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立-HD
-https://live-global-cdn-v02.sooplive.co.kr/live-stm-20/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.0SxTqo55fhwdWo0j9oL5FIwKoqSBGW0suscN-iHwXYCP_hkgCF8zadUjczuD_WTQTm3W4AU8wFG8EpyA1J7nThPeAA222EzRWekbARhr5k2F3W4zD8P0E12fzz32ehzH
+https://live-global-cdn-v02.sooplive.co.kr/live-stmc-38/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.f3dmOFaewrOSF5zlRugqiqiaezEG-I8xlKH8KvK6cCc6uPsoTUBZmGP3xIPt9ZMFfxRum1rLq8kHSKzZFqNgep05XBp3tue5i3zRu15J5M73QADw6PLU65-V94Z-NKRy
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立-1
-https://1a-1791.com/live/tv3qa28c/slot-135/xm71-4o5c_1080p/chunklist.m3u8
+https://1a-1791.com/live/u7gf26qm/slot-61/vq69-rsvn_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立戲劇
 http://61.221.215.25:8800/hls/41/index.m3u8
