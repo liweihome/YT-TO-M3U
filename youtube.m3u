@@ -12,16 +12,16 @@
 
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立-HD
-https://1a-1791.com/live/v0xi25uh/live-hls/v4wg-n4at/chunklist_i2_DVR.m3u8
+http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立-1
-https://vaughn.live/5234481594/css/chatv9_epsilon.css
+http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 #EXTINF:-1 group-title="三立" tvg-logo="" tvg-id="", 三立戲劇
 http://61.221.215.25:8800/hls/41/index.m3u8
 
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv002
+http://106.107.177.223:50007/4gtv-4gtv002/index.m3u8
 
 #EXTINF:-1 group-title="民視" tvg-logo="" tvg-id="", 民視-1
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv155
@@ -33,28 +33,28 @@ http://37.27.111.214:8080/live/6/hls.m3u8
 https://www.youtube.com/watch?v=ieHSbyOeftY
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+http://106.107.177.223:50007/litv-ftv13/index.m3u8
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 民視新聞台-1
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top$订阅源-1920x1080
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 台視新聞台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv051
+http://106.107.177.223:50007/4gtv-4gtv051/index.m3u8
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 台視新聞台-1
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
+http://106.107.177.223:50007/4gtv-4gtv072/index.m3u8
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", TVBS新聞台-*1
 http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 非凡新聞台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
+http://106.107.177.223:50007/4gtv-4gtv010/index.m3u8
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 東森新聞台
-https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv153
+http://106.107.177.223:50007/4gtv-4gtv152/index.m3u8
 
 #EXTINF:-1 group-title="新聞台" tvg-logo="" tvg-id="", 東森新聞台-1
 https://epg.pw/stream/9787fc554f1f1386e7741a9967b3bf15740a19429fa12aa5760a266316b7f0ce.m3u8
